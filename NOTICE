@@ -1,0 +1,19 @@
+hex-simplified-to-traditional
+Copyright 2026 KCChe
+
+This product includes dictionary data derived from:
+
+  OpenCC (Open Chinese Convert)
+  https://github.com/BYVoid/OpenCC
+  Copyright (c) 2008-2017 The OpenCC Project
+  Licensed under the Apache License, Version 2.0
+
+  opencc-data
+  https://github.com/nk2028/opencc-data
+  Copyright (c) nk2028
+  Licensed under the Apache License, Version 2.0
+
+  opencc-js
+  https://github.com/nk2028/opencc-js
+  Copyright (c) nk2028
+  Licensed under the MIT License
